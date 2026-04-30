@@ -9,4 +9,4 @@ To attack or defend any technology, you first need to understand what powers it 
 - Hacker can be bad or good (person who finds weaknesses
   - types of hack = ( White hat - Black hat - Grey )
 - Networking is important
- 
+  
